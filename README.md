@@ -3,6 +3,8 @@ Production ready Agentic AI ChatBot using Llamaindex and Groq-Llama 3.3
 
 This repository demonstrates how to build a production-ready Agentic AI chatbot using LlamaIndex and Groq-Llama 3.3. It covers the essential steps to structure, implement, and deploy an AI chatbot capable of using tools and making function calls.
 
+For clear explanation you can refer my article: https://sachinkhandewal.medium.com/a-simple-step-by-step-guide-to-build-production-ready-agentic-ai-chatbot-using-llamaindex-and-6f08e8006114
+
 ### What You'll Learn:
 1. Demystifying Agentic AI and Agents: Breaking down the hype and understanding the fundamentals of Agentic AI.
 2. ReActAgent & FunctionCallingAgent in LlamaIndex: Learn how to use these agents and integrate tools/functions into them.
