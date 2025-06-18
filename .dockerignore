@@ -1,0 +1,4 @@
+.venv
+src\__pycache__
+src\utils\__pycache__
+\__pycache__

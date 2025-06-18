@@ -1,4 +1,4 @@
 #!/bin/bash
 
-python app.py &
+# Run the Gradio UI
 python simple_ui.py

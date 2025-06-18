@@ -43,4 +43,4 @@ with gr.Blocks(theme=gr.themes.Default()) as demo:
     button_reset =gr.Button("Reset Conversation", elem_id="reset")
     button_reset.click(reset_agent, inputs=[], outputs=[])
 
-demo.launch(share=False)
+demo.launch(share=False, server_name="0.0.0.0", server_port=3389)

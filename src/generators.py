@@ -10,7 +10,7 @@ class Generators:
         Args:
             model (str): The name of the model to use. Defaults to "llama-3.3-70b-versatile".
         """
-        self.llm = Groq(model=model, api_key="your_api_key", temperature=0)
+        self.llm = Groq(model=model, api_key="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", temperature=0)
 
     def get_llm(self):
         """
