@@ -1,1 +1,1 @@
-python simple_ui.py
+python app.py

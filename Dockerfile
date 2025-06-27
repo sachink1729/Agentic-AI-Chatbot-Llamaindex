@@ -17,4 +17,4 @@ COPY . .
 RUN chmod +x start.sh
 
 # Start the application
-CMD ["./start.sh"]
+CMD ["python","app.py"]
