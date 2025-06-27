@@ -17,4 +17,4 @@ COPY . .
 RUN chmod +x start.sh
 
 # Start the application
-CMD ["python","app.py"]
+CMD ["python","simple_ui.py"]
